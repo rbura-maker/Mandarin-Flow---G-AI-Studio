@@ -1,0 +1,7 @@
+{
+  "name": "Mandarin Flow",
+  "description": "An AI-powered Mandarin learning assistant combining SRS flashcards, elastic reading generation, and pronunciation feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
